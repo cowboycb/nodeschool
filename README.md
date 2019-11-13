@@ -10,7 +10,7 @@ https://nodeschool.io/tr/#workshoppers
 
 [Documentation of learnyounode](https://github.com/workshopper/learnyounode#learn-you-the-nodejs-for-much-win)
 
-If the learnyounode is wanted to run locally then these commands should be used (in Linux):
+If the package learnyounode which has these workshops is wanted to be run locally then these commands should be used (in Linux):
 
 ```shell
 npm install learnyounode
