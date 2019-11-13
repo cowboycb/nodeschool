@@ -1,0 +1,16 @@
+*.log
+.idea
+.vscode
+.idea/**/*
+.vscode/**/*
+.nyc_output
+.DS_Store
+npm-debug.log.*
+node_modules
+node_modules/**/*
+cert
+logs/*
+desktop.ini
+package-lock.json
+.history
+.env
