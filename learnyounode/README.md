@@ -4,7 +4,7 @@ Learning Node.js with self-guided workshops
 
 https://nodeschool.io/tr/#workshoppers
 
-![nodeschool](https://raw.githubusercontent.com/cowboycb/nodeschool/master/nodeschool.png)
+![learnyounode app menu](https://raw.githubusercontent.com/cowboycb/nodeschool/master/learnyounode/learnyounode_menu.png)
 
 
 
